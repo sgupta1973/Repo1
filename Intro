@@ -1,0 +1,26 @@
+JSON
+{
+  "id": 123456789,
+  "node_id": "MDEwOlJlcG9zaXRvcnkxMjM0NTY3ODk=",
+  "name": "mcino-Introduction-to-Git-and-GitHub",
+  "full_name": "YourUsername/mcino-Introduction-to-Git-and-GitHub",
+  "owner": {
+    "login": "YourUsername",
+    "id": 9876543,
+    "html_url": "https://github.com/YourUsername"
+  },
+  "private": false,
+  "html_url": "https://github.com/YourUsername/mcino-Introduction-to-Git-and-GitHub",
+  "description": "Introduction to Git and GitHub",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
+Key Indicators in the Output
+"fork": true: Confirms that this is a forked version.
+
+"full_name": Shows your username as the owner of this specific instance.
+
+"parent": Explicitly links back to the original ibm-developer-skills-network repository.
